@@ -1,0 +1,7 @@
+# 🔐 Sensitive Ansible Files
+vault.pass
+group_vars/all/pass.yml
+*.pem
+*.key
+*.secret
+.DS_Store
