@@ -5,3 +5,4 @@ group_vars/all/pass.yml
 *.key
 *.secret
 .DS_Store
+**/.DS_Store
